@@ -135,12 +135,9 @@ llmops/
 │   ├── 📄 model_monitoring.py      # Health checks and metrics
 │   └── 📄 drift_detection.py       # Statistical drift detection
 │
-├── 📂 models/                      # Model storage directories
-│   ├── 📂 raw_model/               # Downloaded base models
-│   └── 📂 trained_model/           # Fine-tuned model artifacts
-│
-└── 📂 notebooks/                   # Jupyter notebooks for experiments
-    └── 📄 experiment_tracking.ipynb # ML experiment tracking
+└── 📂 models/                      # Model storage directories
+    ├── 📂 raw_model/               # Downloaded base models
+    └── 📂 trained_model/           # Fine-tuned model artifacts
 ```
 
 ### 📋 Key Files Explained
@@ -154,6 +151,7 @@ llmops/
 - **`data/data_ingestion.py`**: Uploads datasets to S3 with versioning
 - **`data/dataset/algospeak_patterns.json`**: Curated algospeak mappings
 - **`data/dataset/training_dataset.json`**: Instruction-tuned training data
+- **`data/dataset/data_prep_for training.ipynb`**: Data processing notebook (MAIN NOTEBOOK)
 
 #### **Training Pipeline**
 - **`training/model_training.py`**: Orchestrates SageMaker training jobs
