@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "version": "2.0.0",
+    "source": "Academic research + industry analysis",
+    "total_patterns": 121,
+    "last_updated": "2025-01-15",
+    "citations": [
+      "https://journals.sagepub.com/doi/full/10.1177/20563051231194586",
+      "https://quso.ai/social-media-terms/algospeak",
+      "https://en.wikipedia.org/wiki/Algospeak",
+      "https://par.nsf.gov/biblio/10480449-you-can-say-what-you-want-using-algospeak-contest-evade-algorithmic-content-moderation-tiktok",
+      "https://www.growkudos.com/publications/10.1145%252F3543873.3587355/reader",
+      "https://aclanthology.org/2024.woah-1.10.pdf",
+      "https://www.npr.org/2025/07/20/nx-s1-5261011/adam-aleksic-discusses-algospeak-and-how-social-media-is-changing-how-we-talk"
+    ]
+  },
+  "patterns_placeholder": "All existing mappings, homophones, leetspeak, emoji, etc. should be here",
+  "direct_mappings": {
+    "unalive": "kill",
+    "unaliving": "killing",
+    "unalived": "killed",
+    "sewer slide": "suicide",
+    "kermit sewer slide": "commit suicide",
+    "endgame": "suicide",
+    "forever sleep": "die",
+    "game over": "death",
+    "no longer with us": "death",
+    "13\u00d7": "suicide",
+    "unalive check": "suicidal ideation",
+    "pew-pew": "gun",
+    "NPC arc": "threats of violence",
+    "seggs": "sex",
+    "seg**s": "sex",
+    "seggsytime": "sex",
+    "shmex": "sex",
+    "s3x": "sex",
+    "smash": "sex",
+    "netflix and chill": "sex",
+    "horizontal tango": "sex",
+    "corn star": "porn star",
+    "cornography": "pornography",
+    "accountant": "sex worker",
+    "304": "sex worker",
+    "spicy eggplant": "sex toy",
+    "fake body": "nudity",
+    "wrestling": "sexual act",
+    "leg booty": "LGBT",
+    "le$bean": "lesbian",
+    "le dollar bean": "lesbian",
+    "le dollar boy": "gay man",
+    "tism": "autism",
+    "SSA": "same-sex attraction",
+    "neurospicy": "neurodivergent",
+    "qu33r": "queer",
+    "masc-era": "sexual assault",
+    "mascara": "sexual assault",
+    "panini": "COVID-19",
+    "panini press": "COVID-19",
+    "panoramic": "pandemic",
+    "panorama": "pandemic",
+    "panoramic view": "pandemic",
+    "panda express": "pandemic",
+    "backstreet boys reunion tour": "COVID-19",
+    "the vid": "COVID-19",
+    "grass": "marijuana",
+    "green stuff": "marijuana",
+    "special brownies": "marijuana",
+    "ouid": "weed",
+    "ou1d": "weed",
+    "nose candy": "cocaine",
+    "happy powder": "cocaine",
+    "420-friendly": "marijuana",
+    "ninja": "racial slur",
+    "joggers": "racial slur",
+    "basketball americans": "racial slur",
+    "breeders": "straight people",
+    "gym bros": "straight men",
+    "cheese pizza": "child abuse material",
+    "CP": "child abuse material",
+    "touch the ceiling": "child abuse material",
+    "restart-ed": "retarded",
+    "opposite of love": "hate",
+    "cute winter boots": "ICE immigration",
+    "camping": "abortion",
+    "blink in lio": "link in bio",
+    "link in lio": "link in bio",
+    "clock app": "TikTok",
+    "birdsite": "Twitter",
+    "chain app": "TikTok",
+    "tiktok": "tik tok",
+    "youtube": "you tube",
+    "facebook": "face book",
+    "ED": "eating disorder",
+    "SW": "sex worker",
+    "bop": "promiscuous woman",
+    "coomer": "someone obsessed with sexual content",
+    "gooning": "sexual activity",
+    "huzz": "hoes",
+    "jelquing": "penis enlargement technique",
+    "skripper": "stripper",
+    "spicy": "sexual content",
+    "tiddy": "breasts"
+  },
+  "homophones": {
+    "phreak": "freak",
+    "phuck": "fuck",
+    "shyt": "shit",
+    "darn": "damn",
+    "heck": "hell",
+    "freaking": "fucking",
+    "effing": "fucking",
+    "b1tch": "bitch",
+    "a$$": "ass",
+    "a$$hole": "asshole"
+  },
+  "misspellings": {
+    "fuk": "fuck",
+    "fuq": "fuck",
+    "phuk": "fuck",
+    "shiy": "shit",
+    "sht": "shit",
+    "btch": "bitch",
+    "biatch": "bitch",
+    "azz": "ass",
+    "asz": "ass"
+  },
+  "leetspeak": {
+    "h4t3": "hate",
+    "h8": "hate",
+    "b4n": "ban",
+    "pwn3d": "pwned",
+    "n00b": "noob",
+    "l33t": "leet",
+    "1337": "leet",
+    "w00t": "woot",
+    "pr0n": "porn",
+    "h4x0r": "hacker",
+    "h4ck3r": "hacker"
+  },
+  "char_substitutions": {
+    "@": "a",
+    "4": "a",
+    "3": "e",
+    "1": "i",
+    "!": "i",
+    "0": "o",
+    "5": "s",
+    "$": "s",
+    "7": "t",
+    "+": "t",
+    "2": "z"
+  },
+  "emoji_substitutions": {
+    "\ud83c\udf3d": "corn/porn",
+    "\ud83c\udf46": "eggplant/sexual",
+    "\ud83c\udf3f": "weed",
+    "\ud83d\udd25": "fire/drugs",
+    "\ud83d\udc80": "death/kill",
+    "\ud83e\udd21": "clown/joke",
+    "\ud83d\udc7b": "ghost/disappear"
+  },
+  "numeric_codes": {
+    "304": "sex worker",
+    "1337": "leet/elite",
+    "420": "marijuana",
+    "69": "sexual",
+    "88": "hate symbol",
+    "14": "hate symbol",
+    "13": "suicide"
+  },
+  "symbol_patterns": [
+    [
+      "\\b(\\w*)\\*+(\\w*)\\b",
+      "\\1\\2"
+    ],
+    [
+      "\\b(\\w*)-+(\\w*)\\b",
+      "\\1\\2"
+    ],
+    [
+      "\\b(\\w*)\\.+(\\w*)\\b",
+      "\\1\\2"
+    ],
+    [
+      "\\b(\\w*)_+(\\w*)\\b",
+      "\\1\\2"
+    ],
+    [
+      "\\b(\\w*)\\$+(\\w*)\\b",
+      "\\1s\\2"
+    ]
+  ],
+  "contextual_patterns": {
+    "pizza": [
+      "drugs",
+      "child_abuse"
+    ],
+    "hotdog": [
+      "adult_content"
+    ],
+    "taco": [
+      "adult_content"
+    ],
+    "milk": [
+      "adult_content"
+    ],
+    "cream": [
+      "adult_content"
+    ],
+    "dancing": [
+      "sex"
+    ],
+    "wrestling": [
+      "fighting",
+      "sex"
+    ],
+    "cooking": [
+      "drugs"
+    ],
+    "gardening": [
+      "drugs"
+    ],
+    "cleaning": [
+      "violence"
+    ],
+    "camping": [
+      "abortion"
+    ],
+    "swimming": [
+      "vaccination"
+    ],
+    "accountant": [
+      "sex_work"
+    ]
+  },
+  "severity_levels": {
+    "mild": 1,
+    "moderate": 2,
+    "severe": 3,
+    "extreme": 4
+  },
+  "severity_keywords": {
+    "extreme": [
+      "kill",
+      "suicide",
+      "death",
+      "child_abuse",
+      "racial_slur",
+      "self_harm"
+    ],
+    "severe": [
+      "fuck",
+      "shit",
+      "hate",
+      "violence",
+      "sexual_assault"
+    ],
+    "moderate": [
+      "sex",
+      "drugs",
+      "adult_content",
+      "profanity"
+    ],
+    "mild": [
+      "mild_profanity",
+      "platform_evasion"
+    ]
+  },
+  "categories": {
+    "self_harm": [
+      "unalive",
+      "sewer slide",
+      "endgame",
+      "kermit sewer slide",
+      "13\u00d7"
+    ],
+    "violence": [
+      "pew-pew",
+      "NPC arc",
+      "game over"
+    ],
+    "adult_content": [
+      "seggs",
+      "corn star",
+      "accountant",
+      "304",
+      "wrestling"
+    ],
+    "lgbtq": [
+      "leg booty",
+      "le$bean",
+      "SSA",
+      "qu33r"
+    ],
+    "pandemic": [
+      "panini",
+      "panoramic",
+      "panda express",
+      "the vid"
+    ],
+    "substances": [
+      "grass",
+      "ouid",
+      "420-friendly",
+      "nose candy"
+    ],
+    "hate_speech": [
+      "ninja",
+      "joggers",
+      "basketball americans"
+    ],
+    "child_safety": [
+      "cheese pizza",
+      "CP",
+      "touch the ceiling"
+    ],
+    "platform_evasion": [
+      "clock app",
+      "birdsite",
+      "blink in lio"
+    ]
+  },
+  "safe_context_patterns": {
+    "killed it at work": "succeeded at work",
+    "killed it in the presentation": "did great in the presentation",
+    "killed it today": "performed excellently today",
+    "died laughing": "found very funny",
+    "this movie killed me": "this movie was hilarious",
+    "that movie killed me": "that movie was hilarious",
+    "this joke killed me": "this joke was hilarious",
+    "that joke killed me": "that joke was hilarious",
+    "my phone died": "my phone battery ran out",
+    "battery died": "battery ran out",
+    "presentation was killer": "presentation was excellent",
+    "song is killer": "song is excellent"
+  },
+  "transformation_families": {
+    "leetspeak": "Character-to-number substitutions",
+    "phonetic": "Sound-alike replacements",
+    "emoji": "Emoji-based substitutions",
+    "semantic": "Meaning-preserving code words",
+    "multiword": "Phrase-based inside jokes",
+    "initialism": "Acronym and abbreviation evasion",
+    "numeric": "Number-based code systems",
+    "safe_context": "Common safe expressions that use harmful-sounding words"
+  }
+}

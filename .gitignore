@@ -1,0 +1,208 @@
+# Environment Variables
+.env
+.env.local
+.env.production
+.env.staging
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+.env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# Model artifacts and data
+models/
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.bin
+*.safetensors
+
+# Large datasets (keep patterns but ignore large files)
+data/dataset/train.csv
+data/dataset/test.csv
+data/dataset/*.csv
+data/dataset/*.parquet
+data/dataset/*.feather
+data/raw/
+data/processed/
+data/external/
+
+# Keep important dataset files
+!data/dataset/algospeak_patterns.json
+!data/dataset/training_dataset.json
+
+# AWS and cloud credentials
+.aws/
+*.pem
+*.key
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+.temp/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.coverage.*
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Documentation builds
+docs/_build/
+.readthedocs.yml
+
+# Package managers
+node_modules/
+.npm
+.yarn/
+.pnpm-debug.log*
+
+# Monitoring and evaluation results
+evaluation_results/
+test_logs/
+monitoring_logs/
+*.jsonl
+
+# SageMaker local mode
+.sagemaker/
+sm-local-*
+
+# MLflow
+mlruns/
+mlartifacts/
+
+# Weights & Biases
+wandb/
+
+# DVC
+.dvc/
+.dvcignore
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Archives
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache
+.cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Profiling
+.prof
+
+# PyCharm
+.idea/
+
+# Rope
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Local development
+local/
+scratch/
+experiments/
