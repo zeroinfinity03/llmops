@@ -96,7 +96,7 @@ Training (One-time cost):
 - Frequency: Once initially, then quarterly updates
 
 Inference (Ongoing cost):
-- Cost: $864/month per instance (24/7 availability)
+- Cost: ~$530/month per instance (24/7 availability)
 - This is where the real money is spent
 - Scales with concurrent users, not total API calls
 ```
